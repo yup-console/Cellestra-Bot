@@ -1,0 +1,31 @@
+# @format
+
+BOT:
+  OWNERS: ["901487880067776524", "1355450594185449472"]
+  ADMINS: ["901487880067776524", "1313516472462475405", "1243904427631317088"]
+  STAFFS: ["901487880067776524"]
+
+LINKS:
+  SUPPORT: "https://discord.gg/AZ48HU62vD"
+  MONGO_URI: "mongodb+srv://f65ph6:s519k5@cluster0.x8fn2s8.mongodb.net/?retryWrites=true&w=majority"
+
+SPOTIFY:
+  ID: "6c31645ffb004ab8b44d06f7b96d1b66"
+  SECRET: "3618fdc0b4824cfd91a8d425dac32987"
+
+FUEGO:
+  PREFIX: "."
+  EMOJIS: "black"
+  COLOR: "#00FFFF"
+  SHARDS: 2
+  PER_CLUSTER: 2
+  TOKEN: "MTMxNzU1Nzk5OTAxNTAzNTAyMw.GpopFy.nTajv5JLqSvMUxS_D7dKcqViwLI3SkaSlf4ZdI"
+  TOPGGAUTH: "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjEzMTc1NTc5OTkwMTUwMzUwMjMiLCJib3QiOnRydWUsImlhdCI6MTczNDM1OTcyNn0.L-bwsPbQYkkADBOtcxJ4iMs6UqVvSn4HgYy4_EQhzAU"
+  VOTEURI: "https://top.gg/bot/1317557999015035023/vote"
+
+WEBHOOKS:
+  ERROR: "https://discord.com/api/webhooks/1376523749804998698/SuSMDoV6A76PsHpD3ntIOK_TWTUuXBCT8rVXN6WcdPyqiCdIjWDrZ0ItsBCOJPhEQLeS"
+  STATIC: "https://discord.com/api/webhooks/1388035765602353243/t5dHBPZqorrSgoeW9NNIu8cNz3WRJbBsueBtSUCRcU8oGbcp_g5fMxklvTjvpMItO-og"
+  PLAYER: "https://discord.com/api/webhooks/1388035375489875969/qEzrwRNvtISpCKs6W2eDzlRLiDnE457m8wIAiuOXTqPUPmyZalBB1Cdq8fnjsG-gp_0S"
+  SERVER: "https://discord.com/api/webhooks/1376521033779122296/Dqdaox3KxLa7ePMl09isvUhMy83nOcL822Ie-yT6NmWPmFVQBXSe7XYtc0OVi0O-H_SB"
+  COMMAND: "https://discord.com/api/webhooks/1376521078398128148/FxZal1uR_49ZloBH_pFr-HrMKdioxoLX_nUojqBOwi0SbdHrLhqfNWyA6io_ANk3-Fje"
